@@ -4,15 +4,15 @@
             "device": "Redmi Note 13 Pro 5G",
             "codename": "garnet",
             "maintainer": "franlop77",
-            "datetime": 1746900565,
-            "filename": "HorizonDroid-v5.3-Earth-GAPPS-garnet-OFFICIAL-10052025.zip",
-            "md5": "24910ec9af136fc0299fa8657aef89f9",
+            "datetime": 1748631495,
+            "filename": "HorizonDroid-v5.3-Earth-GAPPS-garnet-OFFICIAL-30052025.zip",
+            "md5": "4feccab95d8701e4602b5ff8ced098e7",
             "buildtype": "OFFICIAL",
-            "size": 2047425953,
-            "download": "https://sourceforge.net/projects/horizondroid/files/garnet/HorizonDroid-v5.3-Earth-GAPPS-garnet-OFFICIAL-10052025.zip/download",
+            "size": 2436214670,
+            "download": "https://sourceforge.net/projects/horizondroid/",
             "version": "v5.3",
-            "support": "https://t.me/garnet_builds_franlop",
-            "changelogs": "https://github.com/HorizonV2/horizon_changelogs"
+            "support": "",
+            "changelogs": ""
         }
     ]
 }
