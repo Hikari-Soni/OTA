@@ -4,17 +4,15 @@
             "device": "Mi 9T",
             "codename": "davinci",
             "maintainer": "superxorn",
-            "datetime": 1747063767,
-            "filename": "HorizonDroid-v5.3-Earth-GAPPS-davinci-OFFICIAL-12052025.zip",
-            "md5": "9c9b636a729bc849c1591ca1c29a2292",
+            "datetime": 1749215176,
+            "filename": "HorizonDroid-v5.4-Hyperion-GAPPS-davinci-OFFICIAL-06062025.zip",
+            "md5": "e8a279d8879ee71b8c01d2d8de90dcea",
             "buildtype": "OFFICIAL",
-            "size": 1962299201,
-            "download": "https://sourceforge.net/projects/horizondroid/files/davinci/HorizonDroid-v5.3-Earth-GAPPS-davinci-OFFICIAL-12052025.zip/download",
-            "version": "v5.3",
+            "size": 2015545283,
+            "download": "https://sourceforge.net/projects/horizondroid/files/davinci/HorizonDroid-v5.4-Hyperion-GAPPS-davinci-OFFICIAL-06062025.zip/download",
+            "version": "v5.4",
             "support": "https://t.me/superxornplayground",
             "changelogs": "https://github.com/HorizonV2/horizon_changelogs"
         }
     ]
 }
-
-
