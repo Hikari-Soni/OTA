@@ -4,15 +4,15 @@
             "device": "Redmi Note 9 Pro",
             "codename": "miatoll",
             "maintainer": "AFIF",
-            "datetime": 1746823132,
-            "filename": "HorizonDroid-v5.3-Earth-VANILLA-miatoll-OFFICIAL-09052025.zip",
-            "md5": "ae6e5257a535c781e4f6f5ef293b8f2d",
+            "datetime": 1749242587,
+            "filename": "HorizonDroid-v5.4-Hyperion-VANILLA-miatoll-OFFICIAL-06062025.zip",
+            "md5": "5f41c2d3f812784f3672fede3bbfafe4",
             "buildtype": "OFFICIAL",
-            "size": 1425806263,
-            "download": "https://pixeldrain.com/u/J8dpDyV6",
-            "version": "v5.3",
+            "size": 1471054234,
+            "download": "https://sourceforge.net/projects/horizondroid/files/miatoll/HorizonDroid-v5.4-Hyperion-VANILLA-miatoll-OFFICIAL-06062025.zip/download",
+            "version": "v5.4",
             "support": "",
-            "changelogs": "https://telegra.ph/HorizonDroid-Alpha-Android-15-presents-Earth-05-09"
+            "changelogs": ""
         }
     ]
 }
