@@ -4,15 +4,15 @@
             "device": "Poco X5 5G/Redmi Note 12 5G",
             "codename": "stone",
             "maintainer": "JARVIS",
-            "datetime": 1748364383,
-            "filename": "HorizonDroid-v5.3-Earth-GAPPS-stone-OFFICIAL-27052025.zip",
-            "md5": "a463ff4b8b76caa8fe421fd8bc1afd66",
+            "datetime": 1750006693,
+            "filename": "HorizonDroid-v5.4-Hyperion-GAPPS-stone-OFFICIAL-15062025.zip",
+            "md5": "4d2b4b125c0921a7b93295daf1265eb3",
             "buildtype": "OFFICIAL",
-            "size": 1962981631,
-            "download": "https://pixeldrain.com/u/viRe8TZB",
-            "version": "v5.3",
+            "size": 1964017101,
+            "download": "https://sourceforge.net/projects/horizondroid/files/stone/HorizonDroid-v5.4-Hyperion-GAPPS-stone-OFFICIAL-15062025.zip/download",
+            "version": "v5.4",
             "support": "https://t.me/dsidesupport",
-            "changelogs": "https://github.com/HorizonV2/horizon_changelogs"
+            "changelogs": ""
         }
     ]
 }
