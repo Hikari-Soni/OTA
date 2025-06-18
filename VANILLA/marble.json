@@ -4,15 +4,15 @@
             "device": "Poco F5/Redmi Note 12 Turbo",
             "codename": "marble",
             "maintainer": "MaulsXSMGReborn",
-            "datetime": 1749624379,
-            "filename": "HorizonDroid-v5.4-Hyperion-VANILLA-marble-OFFICIAL-11062025.zip",
-            "md5": "c8f770c5084cab10a62e1f1072697627",
+            "datetime": 1750229725,
+            "filename": "HorizonDroid-v5.4-Hyperion-VANILLA-marble-OFFICIAL-18062025.zip",
+            "md5": "9006be8e7e665140e63861e7ca0b071d",
             "buildtype": "OFFICIAL",
-            "size": 2040324394,
+            "size": 2038879936,
             "download": "https://sourceforge.net/projects/horizondroid/files/marble/",
             "version": "v5.4",
             "support": "https://t.me/mauls_build",
-            "changelogs": "https://telegra.ph/HorizonDroid-Hyperion-Android-15-06-11"
+            "changelogs": "https://telegra.ph/HorizonDroid-Hyperion-Android-15-06-18"
         }
     ]
 }
